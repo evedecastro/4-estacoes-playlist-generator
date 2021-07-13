@@ -1,2 +1,2 @@
 # 4-estacoes-playlist-generator
-Uma Aplicação Web que gera playlists personalizadas no Spotify
+Uma Aplicação Web com CGI que gera playlists personalizadas no Spotify
